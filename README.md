@@ -13,8 +13,9 @@ The goal of this project is to build a common API, similar to the HTML spec, for
 
 ## List of Existing Design Systems using React
 A case study to see if this is feasible by surveying a list of existing DS's
-- https://github.com/auth0/cosmos
-- https://github.com/seek-oss/seek-style-guide
+- https://github.com/auth0/cosmos (Styled Components)
+- https://github.com/seek-oss/seek-style-guide (CSS Modules and PostCSS)
+- https://github.com/mui-org/material-ui (JSS)
 
 ## Inspiration
 - https://github.com/cssinjs/istf-spec
