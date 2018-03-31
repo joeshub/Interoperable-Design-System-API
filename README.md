@@ -1,4 +1,4 @@
-# Interoperable Design System Component API
+# Interoperable Design System API (IDSAPI)
 The goal of this project is to build an API for being able to seamlessly switch from one design system to another
 
 https://twitter.com/joeseifi/status/979898260142739457
