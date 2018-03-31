@@ -26,11 +26,15 @@ A case study to see if this is feasible by surveying a list of existing DS's
 - https://github.com/auth0/cosmos (Styled Components)
 - https://github.com/seek-oss/seek-style-guide (CSS Modules and PostCSS)
 - https://github.com/mui-org/material-ui (JSS)
+- https://github.com/pluralsight/design-system (Glamor & PostCSS)
+- https://github.com/salesforce/design-system-react (Plain CSS)
 
 ## Inspiration
 - https://github.com/cssinjs/istf-spec
 - https://github.com/css-modules/icss
 - https://github.com/diegohaz/arc
+- https://github.com/jxnblk/rebass
+- https://github.com/johnpolacek/design-system-playground
 - https://www.youtube.com/watch?v=bLgZwFRYTJ4
 - https://github.com/mrmartineau/design-system-utils
 - https://airbnb.design/building-a-visual-language/
