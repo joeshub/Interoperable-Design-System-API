@@ -10,9 +10,16 @@ The goal of this project is to build a common API, similar to the HTML spec, for
 
 Creating a design system built on top of IDSAPI does not require building a full UI component list and their respective APIs. The only thing you should need to worry about is how those components look and behave.
 
+## Goals
+* Start with IDSAPI documentation
+* Start small. We can start by creating the API for shared [atoms](http://bradfrost.com/blog/post/atomic-web-design/) used in all Design System.
+* Consumers should be able to install and use parts from multiple design systems simultaneously.
+* Components should have common similar APIs for callbacks, variations and data exchange.
+* Across all components similar props should be consistent.
+
 ## Challenges
 - Standardizing on a currently highly opinionated API
-- Designs sytems may have internal dependencies which would need to be installed
+- Designs systems may have internal dependencies which would need to be installed
 
 ## List of Existing Design Systems using React
 A case study to see if this is feasible by surveying a list of existing DS's
