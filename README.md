@@ -23,6 +23,7 @@ A case study to see if this is feasible by surveying a list of existing DS's
 ## Inspiration
 - https://github.com/cssinjs/istf-spec
 - https://github.com/css-modules/icss
+- https://github.com/diegohaz/arc
 - https://www.youtube.com/watch?v=bLgZwFRYTJ4
 - https://github.com/mrmartineau/design-system-utils
 - https://airbnb.design/building-a-visual-language/
