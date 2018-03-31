@@ -8,7 +8,7 @@ We are starting to see really advanced design systems being built on top of [Rea
 
 The goal of this project is to build a common API, similar to the HTML spec, for UI components, to be adopted by Design Systems developers. Each system would implement their component internals, and only expose a common IDSAPI to consumers.
 
-Creating a design system built on top of IDSAPI should not require figuring out what API to use and what components to create, but how those components look and behave.
+Creating a design system built on top of IDSAPI does not require building a full UI component list and their respective APIs. The only thing you should need to worry about is how those components look and behave.
 
 ## Challenges
 - Standardizing on a currently highly opinionated API
