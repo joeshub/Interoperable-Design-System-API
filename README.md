@@ -9,7 +9,7 @@ We are starting to see really advanced design systems being built on top of [Rea
 The goal of this project is to build a common API, similar to the HTML spec, for UI components, to be adopted by Design Systems developers. Each system would implement their component internals, and only expose a common IDSAPI to consumers.
 
 ## Challenges
-- Standardizing on a highly opinionated API 
+- Standardizing on a currently highly opinionated API 
 
 ## List of Existing Design Systems using React
 A case study to see if this is feasible by surveying a list of existing DS's
