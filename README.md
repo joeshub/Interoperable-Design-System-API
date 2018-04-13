@@ -28,6 +28,7 @@ A case study to see if this is feasible by surveying a list of existing DS's
 - https://github.com/mui-org/material-ui (JSS)
 - https://github.com/pluralsight/design-system (Glamor & PostCSS)
 - https://github.com/salesforce/design-system-react (Plain CSS)
+- https://github.com/alexpate/awesome-design-systems (Full List of Design Systems)
 
 ## Inspiration
 - https://github.com/cssinjs/istf-spec
